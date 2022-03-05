@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2022-03-05T10:44:19.325Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" version="16.6.6" etag="OZFhsZzFhT24yR-Lblwh" type="github"><diagram id="5XkT9a2cxKeg8pXASCd8">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-05T10:46:13.747Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="cILfM_HAzvh-ftlIguMr" version="16.6.6" type="github">
+  <diagram id="5XkT9a2cxKeg8pXASCd8" name="Page-1">
+    <mxGraphModel dx="1422" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EzpMYkHcF437JfmKOVMW-1" value="Máy tính nhập liệu" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EzpMYkHcF437JfmKOVMW-2" value="Server trung gian" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EzpMYkHcF437JfmKOVMW-3" value="Máy tính CG" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EzpMYkHcF437JfmKOVMW-4" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="EzpMYkHcF437JfmKOVMW-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="360" as="sourcePoint" />
+            <mxPoint x="340" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EzpMYkHcF437JfmKOVMW-7" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="EzpMYkHcF437JfmKOVMW-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="360" as="sourcePoint" />
+            <mxPoint x="510" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
